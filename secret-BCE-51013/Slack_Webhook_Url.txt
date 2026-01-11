@@ -1,0 +1,2 @@
+
+email_subscription_slack: "https://hooks.slack.com/services/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"
