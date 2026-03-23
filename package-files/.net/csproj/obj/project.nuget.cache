@@ -1,0 +1,275 @@
+{
+  "version": 2,
+  "dgSpecHash": "T53Yk5Vk1j0=",
+  "success": true,
+  "projectFilePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+  "expectedPackageFiles": [
+    "/Users/lshindelman/.nuget/packages/awssdk.core/3.7.101/awssdk.core.3.7.101.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/awssdk.s3/3.7.101.28/awssdk.s3.3.7.101.28.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/dsinternals.common/4.7.0/dsinternals.common.4.7.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/enumstringvalues/4.0.0/enumstringvalues.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/jquery/3.0.0/jquery.3.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/log4net/2.0.9/log4net.2.0.9.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.win32.primitives/4.0.1/microsoft.win32.primitives.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.win32.registry/4.0.0/microsoft.win32.registry.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/petero.cbor/4.1.0/petero.cbor.4.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/petero.numbers/1.5.1/petero.numbers.1.5.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/petero.uriutility/1.0.0/petero.uriutility.1.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/runtime.native.system.net.http/4.0.1/runtime.native.system.net.http.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/runtime.native.system.security.cryptography/4.0.0/runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/sendgrid/9.28.1/sendgrid.9.28.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/starkbank-ecdsa/1.3.3/starkbank-ecdsa.1.3.3.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.collections.concurrent/4.0.12/system.collections.concurrent.4.0.12.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.collections.immutable/1.2.0/system.collections.immutable.1.2.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.collections.nongeneric/4.0.1/system.collections.nongeneric.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.console/4.3.0/system.console.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.diagnostics.diagnosticsource/4.0.0/system.diagnostics.diagnosticsource.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.diagnostics.process/4.1.0/system.diagnostics.process.4.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.diagnostics.stacktrace/4.0.1/system.diagnostics.stacktrace.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.diagnostics.tracesource/4.0.0/system.diagnostics.tracesource.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.diagnostics.tracing/4.1.0/system.diagnostics.tracing.4.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.globalization.calendars/4.0.1/system.globalization.calendars.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.globalization.extensions/4.0.1/system.globalization.extensions.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.io.filesystem/4.3.0/system.io.filesystem.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.io.filesystem.primitives/4.3.0/system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.io.filesystem.watcher/4.0.0/system.io.filesystem.watcher.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.net.http/4.1.0/system.net.http.4.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.net.nameresolution/4.0.0/system.net.nameresolution.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.net.primitives/4.3.0/system.net.primitives.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.net.requests/4.0.11/system.net.requests.4.0.11.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.net.sockets/4.3.0/system.net.sockets.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.net.webheadercollection/4.0.1/system.net.webheadercollection.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.reflection.metadata/1.3.0/system.reflection.metadata.1.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.reflection.typeextensions/4.1.0/system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.handles/4.3.0/system.runtime.handles.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.interopservices/4.3.0/system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.interopservices.runtimeinformation/4.3.0/system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.numerics/4.0.1/system.runtime.numerics.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.serialization.formatters/4.3.0/system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.runtime.serialization.primitives/4.3.0/system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.claims/4.0.1/system.security.claims.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.algorithms/4.2.0/system.security.cryptography.algorithms.4.2.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.cng/4.2.0/system.security.cryptography.cng.4.2.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.csp/4.0.0/system.security.cryptography.csp.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.encoding/4.0.0/system.security.cryptography.encoding.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.openssl/4.0.0/system.security.cryptography.openssl.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.primitives/4.0.0/system.security.cryptography.primitives.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.cryptography.x509certificates/4.1.0/system.security.cryptography.x509certificates.4.1.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.principal/4.0.1/system.security.principal.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.security.principal.windows/4.0.0/system.security.principal.windows.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.text.encoding.extensions/4.3.0/system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.text.regularexpressions/4.3.0/system.text.regularexpressions.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading.overlapped/4.0.1/system.threading.overlapped.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading.tasks.extensions/4.3.0/system.threading.tasks.extensions.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading.thread/4.0.0/system.threading.thread.4.0.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading.threadpool/4.0.10/system.threading.threadpool.4.0.10.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/system.xml.xmldocument/4.0.1/system.xml.xmldocument.4.0.1.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/tinymce/6.3.0/tinymce.6.3.0.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/lshindelman/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'DSInternals.Common' 4.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vx2x-9cff-fhjw",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "DSInternals.Common",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'EnumStringValues' 4.0.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-vq23-hwg7-hxrh",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "EnumStringValues",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'jQuery' 3.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-6c3j-c64m-qhgq",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'jQuery' 3.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-gxr4-xjj5-5px2",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'jQuery' 3.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-jpcq-cgw6-v4j6",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "jQuery",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "message": "Package 'log4net' 2.0.9 has a known critical severity vulnerability, https://github.com/advisories/GHSA-2cwj-8chv-9pp9",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "log4net",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-438c-3975-5x3f",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5359-pvf2-pw78",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9hcv-j9pv-qmph",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-gg8r-xjwq-4w92",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-hgqx-r2hp-jr38",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-v626-r774-j7f8",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-v65r-p3vv-jjfv",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'TinyMCE' 6.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-w9jx-4g6g-rp7x",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "TinyMCE",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'DSInternals.Common 4.7.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+      "libraryId": "DSInternals.Common",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

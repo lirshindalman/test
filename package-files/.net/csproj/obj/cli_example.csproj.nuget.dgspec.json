@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj": {}
+  },
+  "projects": {
+    "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+        "projectName": "cli_example",
+        "projectPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/cli_example.csproj",
+        "packagesPath": "/Users/lshindelman/.nuget/packages/",
+        "outputPath": "/Users/lshindelman/dev/testing-resources-2.1-main/sca/package-files/.net/csproj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lshindelman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.101.28, )"
+            },
+            "DSInternals.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "EnumStringValues": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            },
+            "TinyMCE": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/lshindelman/.dotnet/sdk/10.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
